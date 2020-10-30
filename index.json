@@ -1,104 +1,86 @@
 [
-  {
-    "uuid": "2fb9857f-e6fc-4942-aca7-a7688e44f4b7",
-    "slug": "common/bot",
-    "version": "2.1.2",
-    "file": "https://github.com/StandardHentaPlugins/bot/releases/download/v2.1.2/plugin.zip"
-  },
-  {
-    "uuid": "f820f473-216f-4c46-9d6a-9a876cd3d872",
-    "slug": "common/botcmd",
-    "file": "https://github.com/StandardHentaPlugins/botcmd/releases/download/v2.2.1/plugin.zip",
-    "version": "2.2.1"
-  },
-  {
-    "uuid": "ddb96ea8-fe43-4ef9-a990-e1f79f2098f9",
-    "slug": "common/db",
-    "file": "https://github.com/StandardHentaPlugins/db/releases/download/v2.0.1/plugin.zip",
-    "version": "2.10.1"
-  },
-  {
-    "uuid": "15e91bc3-5fc1-4464-983b-867ddb33016a",
-    "slug": "common/users",
-    "file": "https://github.com/StandardHentaPlugins/users/releases/download/v2.0.3/plugin.zip",
-    "version": "2.0.3"
-  },
-  {
-    "uuid": "b1afa5fd-ec66-42e9-8dc2-a1bf53aefc93",
-    "slug": "common/mentions",
-    "file": "https://github.com/StandardHentaPlugins/mentions/releases/download/v0.2.2/plugin.zip",
-    "version": "0.2.2"
-  },
-  {
-    "uuid": "b4c7519c-7ee4-478d-92cc-596dbe860df7",
-    "slug": "common/pex",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "7a867bb8-c787-4d55-a5da-e354a0a105f5",
-    "slug": "common/redis",
-    "file": "https://github.com/StandardHentaPlugins/redis/releases/download/v0.1.1/plugin.zip",
-    "version": "0.1.1"
-  },
-  {
-    "uuid": "f9ef526c-8da8-4b60-b4ca-e80619fdd1c7",
-    "slug": "common/nicknames",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "b023f76d-fc38-42b2-8023-6648d98c311c",
-    "slug": "common/imageCache",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "658fbbe5-7cf0-438a-9710-a54e2a876268",
-    "slug": "common/onlineStatus",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "0f9ba20e-e47a-405a-8b92-f2fd7b51a400",
-    "slug": "common/temp",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "d8472652-2e05-4ad6-9b1f-d3b36869d737",
-    "slug": "common/hentadmin",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "7051a268-580e-410c-8d73-09ecff9d6f8f",
-    "slug": "common/req",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "298c697b-9326-4c2d-ba88-e55cf0677e9d",
-    "slug": "common/figma",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "7f1caddd-bc69-4562-b3d0-97524469e9bc",
-    "slug": "common/activeStats",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "fec95990-dfa2-4374-94ba-2fc40a60002d",
-    "slug": "common/allmail",
-    "file": "=",
-    "version": "2.1.1"
-  },
-  {
-    "uuid": "dbee7094-a429-4ff3-81ee-182e928fe6b9",
-    "slug": "common/autodonat",
-    "file": "https://github.com/StandardHentaPlugins/autodonat/releases/download/v0.1.2/plugin.zip",
-    "version": "0.1.2"
-  }
+	{
+		"uuid": "1fad3fdc-9ce7-424e-b8f0-50d1f7186d05",
+		"slug": "common/bot",
+		"file": "https://github.com/StandardHentaPlugins/bot/releases/download/v2.1.2/plugin.zip",
+		"version": "2.1.2"
+	},
+	{
+		"uuid": "9ff4440f-d597-44c7-92ba-9c5b45970647",
+		"slug": "common/botcmd",
+		"file": "https://github.com/StandardHentaPlugins/botcmd/releases/download/v2.2.1/plugin.zip",
+		"version": "2.2.1"
+	},
+	{
+		"uuid": "b3aa40b3-b23d-4157-84d0-d00582df5841",
+		"slug": "common/db",
+		"file": "https://github.com/StandardHentaPlugins/db/releases/download/v2.0.1/plugin.zip",
+		"version": "2.0.1"
+	},
+	{
+		"uuid": "96a3531b-655b-4b03-a466-e48bbc9faa3d",
+		"slug": "common/users",
+		"file": "https://github.com/StandardHentaPlugins/users/releases/download/v2.0.3/plugin.zip",
+		"version": "2.0.3"
+	},
+	{
+		"uuid": "643116e7-8ac1-4c91-bafc-2a2688fde809",
+		"slug": "common/pex",
+		"file": "https://github.com/StandardHentaPlugins/pex/releases/download/v1.1.4/plugin.zip",
+		"version": "1.1.4"
+	},
+	{
+		"uuid": "2ef2769c-7e23-4e73-bcd6-9e1ac334e72e",
+		"slug": "common/mentions",
+		"file": "https://github.com/StandardHentaPlugins/mentions/releases/download/v0.2.2/plugin.zip",
+		"version": "0.2.2"
+	},
+	{
+		"uuid": "98c9e350-8731-4b47-997d-df5a45129144",
+		"slug": "common/onlineStatus",
+		"file": "https://github.com/StandardHentaPlugins/onlineStatus/releases/download/v0.2.4/plugin.zip",
+		"version": "0.2.4"
+	},
+	{
+		"uuid": "7735caa1-4fa5-4ec8-9e90-ed493bcae76f",
+		"slug": "common/nicknames",
+		"file": "https://github.com/StandardHentaPlugins/nicknames/releases/download/v0.2.3/plugin.zip",
+		"version": "0.2.3"
+	},
+	{
+		"uuid": "5134f179-1ea2-49a4-9c60-c700d0d221c6",
+		"slug": "common/hentadmin",
+		"file": "https://github.com/StandardHentaPlugins/hentadmin/releases/download/v0.1.1/plugin.zip",
+		"version": "0.1.1"
+	},
+	{
+		"uuid": "2abc70e5-c075-4a8f-8f28-fcfe6350a79e",
+		"slug": "common/temp",
+		"file": "https://github.com/StandardHentaPlugins/temp/releases/download/v1.0.2/plugin.zip",
+		"version": "1.0.2"
+	},
+	{
+		"uuid": "3d84eef7-7dbe-4312-8bc4-d79a00919f76",
+		"slug": "common/figma",
+		"file": "https://github.com/StandardHentaPlugins/figma/releases/download/v0.1.1/plugin.zip",
+		"version": "0.1.1"
+	},
+	{
+		"uuid": "780c248b-7e7d-4d77-a370-91d4e0876fbf",
+		"slug": "common/redis",
+		"file": "https://github.com/StandardHentaPlugins/redis/releases/download/v0.1.2/plugin.zip",
+		"version": "0.1.2"
+	},
+	{
+		"uuid": "72a2632c-e381-49fa-8002-6cbab86fa13f",
+		"slug": "common/req",
+		"file": "https://github.com/StandardHentaPlugins/req/releases/download/v0.0.2/plugin.zip",
+		"version": "0.0.2"
+	},
+	{
+		"uuid": "780ea01f-09b4-4309-99b5-465a9b078b62",
+		"slug": "common/autodonat",
+		"file": "https://github.com/StandardHentaPlugins/autodonat/releases/download/v0.1.2/plugin.zip",
+		"version": "0.1.2"
+	}
 ]
