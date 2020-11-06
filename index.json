@@ -12,15 +12,15 @@
 		"version": "2.1.2"
 	},
 	{
-		"uuid": "b3aa40b3-b23d-4157-84d0-d00582df5841",
-		"slug": "common/db",
-		"file": "https://github.com/StandardHentaPlugins/db/releases/download/v2.0.2/plugin.zip",
-		"version": "2.0.2"
-	},
-	{
 		"uuid": "96a3531b-655b-4b03-a466-e48bbc9faa3d",
 		"slug": "common/users",
 		"file": "https://github.com/StandardHentaPlugins/users/releases/download/v2.0.3/plugin.zip",
+		"version": "2.0.3"
+	},
+	{
+		"uuid": "b3aa40b3-b23d-4157-84d0-d00582df5841",
+		"slug": "common/db",
+		"file": "https://github.com/StandardHentaPlugins/db/releases/download/v2.0.3/plugin.zip",
 		"version": "2.0.3"
 	},
 	{
@@ -46,12 +46,6 @@
 		"slug": "common/nicknames",
 		"file": "https://github.com/StandardHentaPlugins/nicknames/releases/download/v0.2.4/plugin.zip",
 		"version": "0.2.4"
-	},
-	{
-		"uuid": "98c9e350-8731-4b47-997d-df5a45129144",
-		"slug": "common/onlineStatus",
-		"file": "https://github.com/StandardHentaPlugins/onlineStatus/releases/download/v0.2.5/plugin.zip",
-		"version": "0.2.5"
 	},
 	{
 		"uuid": "2abc70e5-c075-4a8f-8f28-fcfe6350a79e",
@@ -82,5 +76,11 @@
 		"slug": "common/autodonat",
 		"file": "https://github.com/StandardHentaPlugins/autodonat/releases/download/v0.1.2/plugin.zip",
 		"version": "0.1.2"
+	},
+	{
+		"uuid": "98c9e350-8731-4b47-997d-df5a45129144",
+		"slug": "common/onlineStatus",
+		"file": "https://github.com/StandardHentaPlugins/onlineStatus/releases/download/v0.2.5/plugin.zip",
+		"version": "0.2.5"
 	}
 ]
