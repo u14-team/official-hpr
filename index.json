@@ -1,15 +1,15 @@
 [
 	{
-		"uuid": "9ff4440f-d597-44c7-92ba-9c5b45970647",
-		"slug": "common/botcmd",
-		"file": "https://github.com/StandardHentaPlugins/botcmd/releases/download/v2.2.2/plugin.zip",
-		"version": "2.2.2"
-	},
-	{
 		"uuid": "1fad3fdc-9ce7-424e-b8f0-50d1f7186d05",
 		"slug": "common/bot",
 		"file": "https://github.com/StandardHentaPlugins/bot/releases/download/v2.1.5/plugin.zip",
 		"version": "2.1.5"
+	},
+	{
+		"uuid": "9ff4440f-d597-44c7-92ba-9c5b45970647",
+		"slug": "common/botcmd",
+		"file": "https://github.com/StandardHentaPlugins/botcmd/releases/download/v2.2.2/plugin.zip",
+		"version": "2.2.2"
 	},
 	{
 		"uuid": "b3aa40b3-b23d-4157-84d0-d00582df5841",
@@ -42,15 +42,15 @@
 		"version": "0.1.4"
 	},
 	{
-		"uuid": "98c9e350-8731-4b47-997d-df5a45129144",
-		"slug": "common/onlineStatus",
-		"file": "https://github.com/StandardHentaPlugins/onlineStatus/releases/download/v0.2.5/plugin.zip",
-		"version": "0.2.5"
-	},
-	{
 		"uuid": "7735caa1-4fa5-4ec8-9e90-ed493bcae76f",
 		"slug": "common/nicknames",
 		"file": "https://github.com/StandardHentaPlugins/nicknames/releases/download/v0.2.5/plugin.zip",
+		"version": "0.2.5"
+	},
+	{
+		"uuid": "98c9e350-8731-4b47-997d-df5a45129144",
+		"slug": "common/onlineStatus",
+		"file": "https://github.com/StandardHentaPlugins/onlineStatus/releases/download/v0.2.5/plugin.zip",
 		"version": "0.2.5"
 	},
 	{
@@ -66,16 +66,16 @@
 		"version": "1.0.2"
 	},
 	{
-		"uuid": "3d84eef7-7dbe-4312-8bc4-d79a00919f76",
-		"slug": "common/figma",
-		"file": "https://github.com/StandardHentaPlugins/figma/releases/download/v0.1.2/plugin.zip",
-		"version": "0.1.2"
-	},
-	{
 		"uuid": "72a2632c-e381-49fa-8002-6cbab86fa13f",
 		"slug": "common/req",
 		"file": "https://github.com/StandardHentaPlugins/req/releases/download/v0.0.3/plugin.zip",
 		"version": "0.0.3"
+	},
+	{
+		"uuid": "3d84eef7-7dbe-4312-8bc4-d79a00919f76",
+		"slug": "common/figma",
+		"file": "https://github.com/StandardHentaPlugins/figma/releases/download/v0.1.2/plugin.zip",
+		"version": "0.1.2"
 	},
 	{
 		"uuid": "780ea01f-09b4-4309-99b5-465a9b078b62",
