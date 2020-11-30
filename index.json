@@ -6,10 +6,10 @@
 		"version": "2.2.2"
 	},
 	{
-		"uuid": "96a3531b-655b-4b03-a466-e48bbc9faa3d",
-		"slug": "common/users",
-		"file": "https://github.com/StandardHentaPlugins/users/releases/download/v2.0.5/plugin.zip",
-		"version": "2.0.5"
+		"uuid": "1fad3fdc-9ce7-424e-b8f0-50d1f7186d05",
+		"slug": "common/bot",
+		"file": "https://github.com/StandardHentaPlugins/bot/releases/download/v2.1.5/plugin.zip",
+		"version": "2.1.5"
 	},
 	{
 		"uuid": "b3aa40b3-b23d-4157-84d0-d00582df5841",
@@ -18,16 +18,16 @@
 		"version": "2.0.3"
 	},
 	{
+		"uuid": "96a3531b-655b-4b03-a466-e48bbc9faa3d",
+		"slug": "common/users",
+		"file": "https://github.com/StandardHentaPlugins/users/releases/download/v2.0.5/plugin.zip",
+		"version": "2.0.5"
+	},
+	{
 		"uuid": "2ef2769c-7e23-4e73-bcd6-9e1ac334e72e",
 		"slug": "common/mentions",
 		"file": "https://github.com/StandardHentaPlugins/mentions/releases/download/v0.2.2/plugin.zip",
 		"version": "0.2.2"
-	},
-	{
-		"uuid": "1fad3fdc-9ce7-424e-b8f0-50d1f7186d05",
-		"slug": "common/bot",
-		"file": "https://github.com/StandardHentaPlugins/bot/releases/download/v2.1.5/plugin.zip",
-		"version": "2.1.5"
 	},
 	{
 		"uuid": "643116e7-8ac1-4c91-bafc-2a2688fde809",
